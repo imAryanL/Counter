@@ -3,6 +3,9 @@
 ## Description
 A simple web application that allows users to increase, decrease, and reset a counter. The current value of the counter is displayed on the screen.
 
+![count](https://github.com/user-attachments/assets/ee5f56be-ffbd-49bf-8851-9f51e12aa135)
+
+
 ## Features
 - Increase the counter value
 - Decrease the counter value
@@ -80,5 +83,3 @@ resetBtn.onclick = function() {
     countLabel.textContent = count;
 }
 ```
-
-![count](https://github.com/user-attachments/assets/ee5f56be-ffbd-49bf-8851-9f51e12aa135)
